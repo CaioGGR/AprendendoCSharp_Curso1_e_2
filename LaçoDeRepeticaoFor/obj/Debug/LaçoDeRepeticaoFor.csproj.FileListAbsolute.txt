@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\bin\Debug\LaçoDeRepeticaoFor.exe.config
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\bin\Debug\LaçoDeRepeticaoFor.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\bin\Debug\LaçoDeRepeticaoFor.pdb
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\obj\Debug\LaçoDeRepeticaoFor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\obj\Debug\LaçoDeRepeticaoFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\obj\Debug\LaçoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\obj\Debug\LaçoDeRepeticaoFor.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LaçoDeRepeticaoFor\obj\Debug\LaçoDeRepeticaoFor.pdb

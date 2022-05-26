@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\bin\Debug\9.1-UtilizandoOSwitch.exe.config
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\bin\Debug\9.1-UtilizandoOSwitch.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\bin\Debug\9.1-UtilizandoOSwitch.pdb
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\obj\Debug\9.1-UtilizandoOSwitch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\obj\Debug\9.1-UtilizandoOSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\obj\Debug\9.1-UtilizandoOSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\obj\Debug\9.1-UtilizandoOSwitch.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\9.1-UtilizandoOSwitch\obj\Debug\9.1-UtilizandoOSwitch.pdb

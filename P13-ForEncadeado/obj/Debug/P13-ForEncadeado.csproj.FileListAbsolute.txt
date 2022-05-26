@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb

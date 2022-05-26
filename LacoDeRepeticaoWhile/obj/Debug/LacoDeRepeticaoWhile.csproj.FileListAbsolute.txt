@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe.config
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\bin\Debug\LacoDeRepeticaoWhile.pdb
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\LacoDeRepeticaoWhile\obj\Debug\LacoDeRepeticaoWhile.pdb

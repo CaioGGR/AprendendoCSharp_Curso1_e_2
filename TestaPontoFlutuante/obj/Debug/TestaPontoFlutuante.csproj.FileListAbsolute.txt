@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\Administrator\Documents\AprendendoCSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
